@@ -24,8 +24,8 @@ navigation:
     url: /
   - name: About
     url: /about
-  - name: Archive
-    url: /archive
+  - name: LLM
+    url: /LLM
   - name: Tags
     url: /tags
   - name: Theme
